@@ -1,0 +1,1 @@
+Use a loop to generate subtraction quesitons repeatedly.
